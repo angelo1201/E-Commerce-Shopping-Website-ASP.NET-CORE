@@ -35,16 +35,9 @@ To access the admin area, use the following credentials:
 Username: admin  
 Password: admin
 
-⚙️ Setup Instructions
-
 ⚠️ Important: Before running the project, make sure to configure your own MySQL database connection.
 
-1. Clone the repository
-
-git clone https://github.com/your-username/E-Commerce-Shopping-Website-ASP.NET-CORE.git
-cd E-Commerce-Shopping-Website-ASP.NET-CORE
-
-2. Update database settings
+Update database settings
 
 Open the appsettings.json file and replace the DefaultConnection string with your actual MySQL configuration:
 
